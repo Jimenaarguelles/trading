@@ -1,1 +1,2 @@
 # trading
+Introducción a Git
